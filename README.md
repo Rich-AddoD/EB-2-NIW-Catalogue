@@ -25,19 +25,22 @@ We welcome contributions to expand and improve this repository. If you have a su
 Fork the Repository:
 Click the "Fork" button at the top right corner of this page.
 
-Create a New Branch:git checkout -b your-branch-name
+Create a New Branch:
+git checkout -b your-branch-name
 
 Add Your Contribution:
 
 Add your sample proposed endeavor or petition to the appropriate folder.
 Ensure that any personal information is redacted or anonymized.
-Commit and Push:git commit -m "Add new sample proposed endeavor/petition"
+Commit and Push:
+git commit -m "Add new sample proposed endeavor/petition"
 git push origin your-branch-name
 
 Submit a Pull Request:
 
 Go to your forked repository on GitHub.
 Click the "New Pull Request" button and submit your changes for review.
+
 Disclaimer
 The samples and resources provided in this repository are for informational purposes only. They should not be construed as legal advice. We recommend consulting with an immigration attorney or legal expert to ensure that your EB2 NIW petition meets all necessary legal requirements.
 
